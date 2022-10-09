@@ -1,20 +1,26 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/ermJKtxuNB3xe/giphy.gif" width="100"/>
-  <br>
-  <center><a href="https://www.linkedin.com/in/devop-archer/">
-    </a></center>
-</div>
+[![My Progress - davidarcher.tech](https://media-exp1.licdn.com/dms/image/D4E16AQEDZ0Kj-lflWw/profile-displaybackgroundimage-shrink_350_1400/0/1664965509966?e=1671062400&v=beta&t=0gbgHnR77rNfuc3K_RwEUR3JDG748IZK8czhLykrr2I)](https://www.davidarcher.tech)
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  
-  <img src="https://komarev.com/ghpvc/?username=777archer&style=flat-square&color=blue" alt=""/>
-  <h1>
-  hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/0lfqHNZwWM1hOvJ9CX/giphy.gif" width="600" height="300"/>
-</div>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: 0";>
+      <img width="500" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapertag.com%2Fwallpaper%2Ffull%2Ff%2F4%2F2%2F343876-download-muhammad-ali-wallpaper-2560x1600.jpg&f=1&nofb=1&ipt=1437143ef045dc1cb8c60f9f489c91a600074e0746d0cfb4d8d7105acbac4a0a&ipo=images" />
+    </td>
+    <td style="border: 0";>
+      <p>
+       🎓 I'm a student majoring in Software Engineering at <a href="https://github.com/cloudinary">Cal State Fullerton<a/>.
+      </p>
+      <p>
+        🧑🏿‍💻 On my free time, I like to implement what I have learned into projects which I then publish on my <a href="https://www.davidarcher.tech">portfolio website</a>.
+      </p>
+      <h3>Bellow are other places that you can find me</h3>
+      <ul>
+        <li>
+          ⚓ <a href="https://www.linkedin.com/in/devop-archer/">Follow me on LinkedIn</a>
+        </li>
+        <li>
+          🏠 <a href="https://www.davidarcher.tech">Checkout my website</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
