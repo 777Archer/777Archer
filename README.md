@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ermJKtxuNB3xe/giphy.gif" width="100"/>
+  <br>
   <a href="https://www.linkedin.com/in/devop-archer/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
