@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ermJKtxuNB3xe/giphy.gif" width="100"/>
   <br>
-  <a align="center" href="https://www.linkedin.com/in/devop-archer/">
-  </a>
+  <center><a href="https://www.linkedin.com/in/devop-archer/">
+    </a></center>
 </div>
 
 <div id="badges">
