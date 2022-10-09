@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ermJKtxuNB3xe/giphy.gif" width="100"/>
   <br>
-  <a href="https://www.linkedin.com/in/devop-archer/">
+  <a align="center" href="https://www.linkedin.com/in/devop-archer/">
   </a>
 </div>
 
