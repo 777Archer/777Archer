@@ -3,7 +3,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="500" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapertag.com%2Fwallpaper%2Ffull%2Ff%2F4%2F2%2F343876-download-muhammad-ali-wallpaper-2560x1600.jpg&f=1&nofb=1&ipt=1437143ef045dc1cb8c60f9f489c91a600074e0746d0cfb4d8d7105acbac4a0a&ipo=images" />
+      <img width="500" target="_blank" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapertag.com%2Fwallpaper%2Ffull%2Ff%2F4%2F2%2F343876-download-muhammad-ali-wallpaper-2560x1600.jpg&f=1&nofb=1&ipt=1437143ef045dc1cb8c60f9f489c91a600074e0746d0cfb4d8d7105acbac4a0a&ipo=images" />
     </td>
     <td style="border: 0";>
       <p>
