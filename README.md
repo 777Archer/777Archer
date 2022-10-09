@@ -7,7 +7,7 @@
     </td>
     <td style="border: 0";>
       <p>
-       🎓 I'm a student majoring in Software Engineering at <a href="https://github.com/cloudinary">Cal State Fullerton<a/>.
+       🎓 I'm a student majoring in Software Engineering at Cal State Fullerton<a/>.
       </p>
       <p>
         🧑🏿‍💻 On my free time, I like to implement what I have learned into projects which I then publish on my <a href="https://www.davidarcher.tech">portfolio website</a>.
