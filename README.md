@@ -15,7 +15,7 @@
       <h3>Bellow are other places that you can find me</h3>
       <ul>
         <li>
-          ⚓ <a href="https://www.linkedin.com/in/devop-archer/">Follow me on LinkedIn</a>
+          ⚓ <a href="https://www.linkedin.com/in/devop-archer/" traget="_blank">Follow me on LinkedIn</a>
         </li>
 <!--         <li>
           🏠 <a href="https://www.davidarcher.tech">Checkout my website</a>
