@@ -13,8 +13,8 @@
         🧑🏿‍💻 On my free time, I like to implement what I have learned into projects which I then publish on my <a href="https://www.davidarcher.tech">portfolio website</a>.
       </p>
       <h3>Bellow are other places that you can find me</h3>
-[<img align="left" alt="DavidArcher | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-      [linkedin]: https://www.linkedin.com/in/devop-archer
+
+      
 
     </td>
   </tr>
