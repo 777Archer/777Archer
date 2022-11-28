@@ -14,10 +14,12 @@
       </p>
       <h3>Bellow are other places that you can find me</h3>
       <ul>
-          ⚓ <a href="https://www.linkedin.com/in/devop-archer/">Follow me on LinkedIn</a>
         <li>
-          🏠 <a href="https://www.davidarcher.tech">Checkout my website</a>
+          ⚓ <a href="https://www.linkedin.com/in/devop-archer/">Follow me on LinkedIn</a>
         </li>
+<!--         <li>
+          🏠 <a href="https://www.davidarcher.tech">Checkout my website</a>
+        </li> -->
       </ul>
     </td>
   </tr>
