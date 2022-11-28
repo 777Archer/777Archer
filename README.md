@@ -14,11 +14,13 @@
       </p>
       <h3>Bellow are other places that you can find me</h3>
       [<img align="left" alt="DevopArcher | Linkedin" width="22px" src="https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B9lI6S8wdSlOJ%2Fkzh%2BXIfSg%3D%3D" />][linkedin]
+      [linkedin]: https://www.linkedin.com/in/devop-archer
+      
       <ul>
         <li>
           ⚓ <a href="https://www.linkedin.com/in/devop-archer/" traget="_blank">Follow me on LinkedIn</a>
         </li>
-        [linkedin]: https://www.linkedin.com/in/devop-archer
+        
 <!--         <li>
           🏠 <a href="https://www.davidarcher.tech">Checkout my website</a>
         </li> -->
