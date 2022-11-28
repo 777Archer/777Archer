@@ -13,8 +13,9 @@
         🧑🏿‍💻 On my free time, I like to implement what I have learned into projects which I then publish on my <a href="https://www.davidarcher.tech">portfolio website</a>.
       </p>
       <h3>Find me at:</h3>
-
-      
-
-  </tr>
+      <a href="https://www.linkedin.com/in/devop-archer/">
+        <img width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /">
+      </a>
+  <a href="https://www.davidarcher.tech">
+        <img width="30" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fnews.calderdale.gov.uk%2Fwp-content%2Fuploads%2F2013%2F09%2Fwebsite.jpg&f=1&nofb=1&ipt=febacdc7b398b89f7bbe515577e83bf527fa03e10be6ee62978493bb6fed5b1e&ipo=images"></td>
 </table>
