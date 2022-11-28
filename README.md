@@ -12,6 +12,7 @@
       <p>
         🧑🏿‍💻 On my free time, I like to implement what I have learned into projects which I then publish on my <a href="https://www.davidarcher.tech">portfolio website</a>.
       </p>
+      <td>
       <h3>Bellow are other places that you can find me</h3>
 
       
