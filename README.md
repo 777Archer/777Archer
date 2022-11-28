@@ -15,16 +15,7 @@
       <h3>Bellow are other places that you can find me</h3>
 [<img align="left" alt="DavidArcher | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
       [linkedin]: https://www.linkedin.com/in/devop-archer
-      
-      <ul>
-<!--         <li>
-          ⚓ <a href="https://www.linkedin.com/in/devop-archer/" traget="_blank">Follow me on LinkedIn</a>
-        </li> -->
-        
-<!--         <li>
-          🏠 <a href="https://www.davidarcher.tech">Checkout my website</a>
-        </li> -->
-      </ul>
+
     </td>
   </tr>
 </table>
