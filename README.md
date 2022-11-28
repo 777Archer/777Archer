@@ -17,6 +17,7 @@
         <li>
           ⚓ <a href="https://www.linkedin.com/in/devop-archer/" traget="_blank">Follow me on LinkedIn</a>
         </li>
+        [linkedin]: https://www.linkedin.com/in/devop-archer
 <!--         <li>
           🏠 <a href="https://www.davidarcher.tech">Checkout my website</a>
         </li> -->
