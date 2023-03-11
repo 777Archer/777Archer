@@ -1,4 +1,4 @@
-[![My Progress - davidarcher.tech](https://media.licdn.com/dms/image/D4E16AQEDZ0Kj-lflWw/profile-displaybackgroundimage-shrink_350_1400/0/1664965509966?e=1678320000&v=beta&t=qYeDCrCwGM-OAVOvZ7j_y8-p1aWdfGhCYLmOFVNB9Kg)](https://www.davidarcher.tech)
+[![My Progress - davidarcher.tech](https://media.licdn.com/dms/image/D4E16AQHIBEj5y7seHw/profile-displaybackgroundimage-shrink_350_1400/0/1677076179971?e=1683763200&v=beta&t=d6peJt7YoOO-DjHNaMEaGravi-NgFSInx_cJsRrZfuo)](https://www.davidarcher.tech)
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
