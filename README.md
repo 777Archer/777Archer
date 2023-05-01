@@ -3,7 +3,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="800" src="https://www.davidarcher.tech/images/gcc-boxing-club.jpg" />
+      <img width="800" src="https://www.davidarcher.tech/images/gcc-boxing-club1.jpg" />
     </td>
     <td style="border: 0";>
       <p>
