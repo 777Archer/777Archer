@@ -3,7 +3,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img https://www.davidarcher.tech/images/cs243classproject.jpg/><p>
+      <p>
        🎓 My name is David and I am currently a Software Engineering student at Cal State Fullerton<a/>.
       </p>
     </td>
