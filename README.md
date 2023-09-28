@@ -3,12 +3,14 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="800" src="https://www.davidarcher.tech/images/gcc-boxing-club1.jpg" />
-    </td>
-    <td style="border: 0";>
-      <p>
+      <img https://www.davidarcher.tech/images/cs243classproject.jpg/><p>
        🎓 My name is David and I am currently a Software Engineering student at Cal State Fullerton<a/>.
       </p>
+    </td>
+    <td style="border: 0";>
+<!--       <p>
+       🎓 My name is David and I am currently a Software Engineering student at Cal State Fullerton<a/>.
+      </p> -->
       <p>
         🧑🏿‍💻 On my free time, I like to implement what I have learned into projects which I then publish on my <a href="https://www.davidarcher.tech">portfolio website</a>.
       </p>
