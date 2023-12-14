@@ -4,7 +4,7 @@
   <tr>
     <td style="border: 0";>
       <p>
-       🎓 My name is David and I am currently a Software Engineering student at Cal State Fullerton<a/>.
+       🎓 Make sure not to lose sight of how fun coding, and learning is<a/>.
       </p>
     </td>
     <td style="border: 0";>
