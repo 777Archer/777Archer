@@ -9,7 +9,7 @@
     </td>
     <td style="border: 0";>
 <!--       <p>
-       🎓 My name is David and I am currently a Software Engineering student at Cal State Fullerton<a/>.
+       🎓 Make sure not to lose sight of how fun coding, and learning is<a/>.
       </p> -->
       <p>
         🧑🏿‍💻 On my free time, I like to implement what I have learned into projects which I then publish on my <a href="https://www.davidarcher.tech">portfolio website</a>.
